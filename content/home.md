@@ -1,6 +1,6 @@
 ---
 title: Awesome kitties
-date: 2019-03-17T19:31:20.591Z
+date: 2021-11-25T12:47:03.907Z
 cats:
   - description: Maru is a Scottish Fold from Japan, and he loves boxes.
     name: Meow Meow (まる)
